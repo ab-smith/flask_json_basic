@@ -1,0 +1,22 @@
+{
+    "OSF":{
+        "version": "0.2.7",
+        "label_version": "1",
+        "security_label": "X1",
+        "CSRO": "AAA",
+        "PO": "SSS",
+        "Date": "09/04/2019",
+        "Reviewer": "OOO",
+        "Report": "<link>"
+    },
+    "OSC":{
+        "version": "0.2.4",
+        "label_version": "1",
+        "security_label": "X1",
+        "CSRO": "AAA",
+        "PO": "SSS",
+        "Date": "19/03/2019",
+        "Reviewer": "NNN",
+        "Report": "<link>"
+    }
+}
